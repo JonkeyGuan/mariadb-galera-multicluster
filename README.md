@@ -1,6 +1,7 @@
-# MariaDB Galera packaged by Bitnami
-This is the revised version for multi-cluster from https://github.com/bitnami/charts/tree/master/bitnami/mariadb-galera
-
+# mariadb-galera-multicluster
+This is the revised version of mariadb-galera for multi-cluster.   
+mariadb-galera packaged by Bitnami at https://github.com/bitnami/charts/tree/master/bitnami/mariadb-galera  
+The changes:
 - added serviceexport.yaml
 - changed statefulset.yaml
   - removed MARIADB_GALERA_CLUSTER_ADDRESS env item
