@@ -1,5 +1,5 @@
 # MariaDB Galera packaged by Bitnami
-## This is the revised version for multi-cluster from https://github.com/bitnami/charts/tree/master/bitnami/mariadb-galera
+This is the revised version for multi-cluster from https://github.com/bitnami/charts/tree/master/bitnami/mariadb-galera
 
 - added serviceexport.yaml
 - changed statefulset.yaml
